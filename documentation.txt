@@ -1,0 +1,16 @@
+Create a New Branch: git branch -C Name_of_Branch
+
+See all current branches: git branch
+
+Move to a different branch: git checkout Name_of_Branch
+
+Check the branch status: git status
+
+How to add new files to be committed:
+    1. git add file_name
+    2. git add . <-- adds all files in that branch to be committed
+
+How to commit new files: git commit -m "Enter message describing committed files" 
+
+How to push files from local repository to github/remote:
+    1. If pushing from a branch file (not from main), git push origin head <-- pushes directly to github
