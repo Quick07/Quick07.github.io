@@ -1,6 +1,8 @@
+Pull all new changes made: Git pull 
+
 Create a New Branch: git branch -C Name_of_Branch
 
-See all current branches: git branch
+See all current branches: git branch -a
 
 Move to a different branch: git checkout Name_of_Branch
 
